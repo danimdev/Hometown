@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-image: url(images/mellecity.jpg);
+    background-size: cover;
+    color: white;
+    text-shadow: 0 0 5px black;
+}
+
+img {
+    width: 200px;
+}
+
+#automuseum{
+    height: 200px;
+}
+
+#ludwigsee{
+    height: 200px;
+}
+
+#mellerberge{
+    height: 200px;
+}
+
+#titleofgallerie{
+    margin-top: 0;
+}
+
+.Descriptions
+{
+    display: flex;
+    justify-content: center;
+}
+
+.descriptiontexts{
+    margin-left: 8%;
+}
+
+#guide-title{
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.Gallerie{
+    border: 5px dashed black;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgba(103, 113, 196, 0.2);
+}
+
+img{
+    border-radius: 50%;
+    border: 5px solid black;
+}
+
+.Andere-Orte{
+    width: 50%;
+    border: 5px dashed black;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(103, 113, 196, 0.2);
+    border-radius: 25px;
+}
+
+#landscape{
+    height: 200px;
+    margin-right: 200px;
+
+}
+
+#inner-city{
+    height: 200px;
+}
+
+#Other-Places-Title{
+    text-decoration: underline;
+    width: 20%;
+    margin: auto;
+}
+
+#innerdescription-other-places
+{
+    margin-left: 325px;
+}
